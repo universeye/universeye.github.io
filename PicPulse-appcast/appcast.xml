@@ -3,6 +3,14 @@
     <channel>
         <title>PicPulse</title>
         <item>
+            <title>1.2.4</title>
+            <pubDate>Mon, 02 Sep 2024 23:54:24 +0800</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/universeye/PreShots/releases/download/v1.2.4/PicPulse.1.2.4.dmg" length="10065141" type="application/octet-stream" sparkle:edSignature="6iFs2rKGqSgGl1jSgajZqhhPlhEEQktP0Qlg8did41zweuMbZsLsm0mUm83l0S2vpCOufpt0zps00zRA8gj2Ag=="/>
+        </item>
+        <item>
             <title>1.2.3</title>
             <pubDate>Mon, 02 Sep 2024 23:05:59 +0800</pubDate>
             <sparkle:version>27</sparkle:version>
